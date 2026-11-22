@@ -1,0 +1,3 @@
+# Preview copy. Crawling is allowed so the noindex tag can be read.
+User-agent: *
+Allow: /
